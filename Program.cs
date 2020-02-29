@@ -15,12 +15,10 @@ namespace DeliverableMethods
 
             Console.WriteLine("Please enter the first number.");
             Num1 = Convert.ToInt32(Console.ReadLine());
-
             Console.WriteLine("Please enter the second number.");
             Num2 = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("What operation do you want to perform?");
-
             Console.WriteLine("Options");
             Console.WriteLine("1. Addition");
             Console.WriteLine("2. Subtraction");
